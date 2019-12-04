@@ -1,0 +1,37 @@
+body {
+    padding-left: 10em;
+    font-family: "Alegreya Sans Black";
+    color: rgb(35, 43, 110);
+    background-image:url("j0227538.jpg")}
+  ul.navbar {
+    list-style-type: none;
+    padding: 20;
+    margin: 0;
+    position: absolute;
+    top: 35em;
+    left: 1em;
+    width: 9em }
+  h1 {
+    font-family: Alegreya Sans Black  }
+  ul.navbar li {
+    background: rgb(178, 185, 214);
+    margin: 0.5em 0;
+    padding: 2em;
+    border-right: 1em solid rgb(39, 47, 66) }
+  ul.navbar a {
+    text-decoration: none }
+  a:link {
+    color: rgb(4, 4, 49) }
+  a:visited {
+    color: rgb(19, 0, 128) }
+  address {
+    margin-top: 1em;
+    padding-top: 1em;
+    border-top: thin dotted }
+h3 {
+    color:green;
+}
+.try {
+    color:blue;
+    background-color: blueviolet;
+}
